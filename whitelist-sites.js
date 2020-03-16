@@ -32,6 +32,7 @@
 		"OR nypost.com",
 		"OR wnd.com",
 		"OR pjmedia.com",
-		"OR newsbusters.org"
+		"OR newsbusters.org",
+		"OR prageru.com"
 	]
 }
