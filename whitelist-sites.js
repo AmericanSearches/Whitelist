@@ -1,5 +1,6 @@
 {
-	leftWhiteList: [
+
+	"leftWhiteList": [
 		"AND Cnn.com",
 		"OR Nytimes.com",
 		"OR News.google.com",
@@ -16,7 +17,7 @@
 		"OR Abcnews.go.com",
 		"OR Thehill.com"
 	],
-	rightWhiteList: [
+	"rightWhiteList": [
 		"AND foxnews.com",
 		"OR wsj.com",
 		"OR rushlimbaugh.com",
