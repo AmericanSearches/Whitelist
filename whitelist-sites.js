@@ -26,13 +26,13 @@
 		"OR dailymail.co.uk",
 		"OR forbes.com",
 		"OR washingtontimes.com",
+		"OR prageru.com",
 		"OR oann.com",
 		"OR cspan.com",
 		"OR mcclatchy.com",
 		"OR nypost.com",
 		"OR wnd.com",
 		"OR pjmedia.com",
-		"OR newsbusters.org",
-		"OR prageru.com"
+		"OR newsbusters.org"
 	]
 }
