@@ -17,6 +17,7 @@
 		"OR Abcnews.go.com",
 		"OR Thehill.com"
 	],
+
 	"rightWhiteList": [
 		"AND foxnews.com",
 		"OR wsj.com",
@@ -27,6 +28,7 @@
 		"OR forbes.com",
 		"OR washingtontimes.com",
 		"OR prageru.com",
+		"OR whitehouse.gov",
 		"OR oann.com",
 		"OR cspan.com",
 		"OR mcclatchy.com",
