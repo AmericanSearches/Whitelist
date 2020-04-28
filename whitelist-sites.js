@@ -20,7 +20,6 @@
 
 	"rightWhiteList": [
 		"AND foxnews.com",
-		"OR wsj.com",
 		"OR rushlimbaugh.com",
 		"OR drudgereport.com",
 		"OR theblaze.com",
@@ -33,6 +32,7 @@
 		"OR cspan.com",
 		"OR mcclatchy.com",
 		"OR nypost.com",
+		"OR wsj.com",
 		"OR wnd.com",
 		"OR pjmedia.com",
 		"OR newsbusters.org"
